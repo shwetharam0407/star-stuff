@@ -31,7 +31,7 @@ img {vertical-align: middle;}
   max-width: 1000px;
   position: relative;
   margin: auto;
-  padding: 0px 0px 40% 0px; 
+  padding: 0px 0px 0px 0px; 
 }
 
 /* Next & previous buttons */
