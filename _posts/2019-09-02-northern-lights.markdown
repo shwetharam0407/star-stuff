@@ -2,7 +2,7 @@
 title:  "Aurora Borealis"
 subtitle: "Chasing the Northern Lights"
 author: "Shwetha Ram"
-avatar: "img/authors/profile_pic.png"
+avatar: "img/authors/profile_pic.PNG"
 image: "img/northern_lights/northern_lights.jpg"
 date:   2019-09-02 12:12:12
 ---
@@ -193,7 +193,7 @@ function showSlides(n) {
 
 <!--End image slideshow-->
 
-As we were chasing the northern lights, I thought about how they can disappear anytime, or offer the best we've seen yet. We neither know how lasting are the wonders of the present moment, nor how beautiful the next one - it's all about living every moment to the fullest, anticipating colored lights on every turn of the road.
+As we were chasing the northern lights, I thought about how they can disappear anytime, or offer the best we've seen yet. We neither know how lasting the wonders of the present moment are, nor how beautiful the next one - it's all about living every moment to the fullest, anticipating colored lights on every turn of the road.
  
 My only regret? Not having a good camera! That's for the next time, I guess.
 
