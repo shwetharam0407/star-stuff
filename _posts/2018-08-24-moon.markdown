@@ -1,0 +1,90 @@
+---
+title:  "Chandra"
+subtitle: "Aiming for the moon"
+author: "Shwetha Ram"
+avatar: "img/authors/profile_pic.PNG"
+image: "img/moon/moon.jpg"
+date:   2018-08-24 12:12:12
+---
+
+On night, I was out with my guest for the month, an Orion StarBlast 113 4.5 inch Newtonian Tabletop reflector and decided to aim for the moon...
+
+[<span style="color:blue">SJAA loaner program</span>](https://www.sjaa.net/programs/loaner-telescope-program/) enabled me to try out a different scope every month. While I'm yet to make up my mind on which one to buy, I've tried a bunch of scopes and learnt a lot about them and met some super awesome people along the way. More recently, I started volunteering for the loaner program, so I could help other people on this journey and learn some more.
+
+<div align=center>
+<img src="img/moon/orion.JPG" alt="Orion StarBlast 113" width="50%" height=auto>
+</div>
+
+On night, I was out with my guest for the month, an [<span style="color:blue">Orion StarBlast</span>](https://drive.google.com/file/d/0B0nkpNnYZHAXZnQ2dFpuSlZnZEk/view) 113 4.5 inch Newtonian Tabletop reflector and decided to aim for the moon. I had my iPhone with me and it had to serve as the camera. I had no adapter mount and aligning the phone lens with the eyepiece by hand and holding it still turned out to be quite challenging. A colleague then recommended [<span style="color:blue">this adapter that works with any phone</span>](https://www.amazon.com/dp/B01J9F19I8/ref=cm_sw_r_sms_c_api_b1AHBbB04F0KR) and it's been quite useful. A further challenge was to get the focus setting right. All in all, I spent a lot of time and took way too many bad pictures. But a few of them turned out to be decent.
+
+<!--Start image slideshow-->
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/slideshow.css">
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="moonSlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="img/moon/moon.jpg" style="width:100%">
+</div>
+
+<div class="moonSlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="img/moon/moon_1.jpg" style="width:100%">
+</div>
+
+<div class="moonSlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="img/moon/moon_2.jpg" style="width:100%">
+</div>
+
+<a class="prev" onclick="plusMoon(-1)">&#10094;</a>
+<a class="next" onclick="plusMoon(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentMoon(1)"></span> 
+  <span class="dot" onclick="currentMoon(2)"></span> 
+  <span class="dot" onclick="currentMoon(3)"></span> 
+</div>
+
+<script> 
+var moonIndex = 1;
+showMoon(moonIndex);
+
+function plusMoon(n) {
+  showMoon(moonIndex += n);
+}
+
+function currentMoon(n) {
+  showMoon(moonIndex = n);
+}
+
+function showMoon(n) {
+  var i;
+  var slides = document.getElementsByClassName("moonSlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {moonIndex = 1}
+  if (n < 1) {moonIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[moonIndex-1].style.display = "block";
+  dots[moonIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html> 
+
+<!--End image slideshow-->
