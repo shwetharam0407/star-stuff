@@ -12,8 +12,8 @@ On night, I was out with my guest for the month, an Orion StarBlast 113 4.5 inch
 [<span style="color:blue">SJAA loaner program</span>](https://www.sjaa.net/programs/loaner-telescope-program/) enabled me to try out a different scope every month. While I'm yet to make up my mind on which one to buy, I've tried a bunch of scopes and learnt a lot about them and met some super awesome people along the way. More recently, I started volunteering for the loaner program, so I could help other people on this journey and learn some more.
 
 <html>
-<div align=center>
-<img src="img/moon/orion.JPG" alt="Orion StarBlast 113" width="50%" height=auto>
+<div align="center">
+<img src="img/moon/orion.JPG" alt="Orion StarBlast 113" width="50%" height="auto">
 </div>
 </html>
 
