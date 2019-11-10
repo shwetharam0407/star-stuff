@@ -15,7 +15,7 @@ Turned out, a *lot* of people had the same idea. The place was extremely crowded
 
 <html>
 <div align="center">
-<img src="img/eclipse/eclipse_3.jpg" alt="Crowd at the Eclipse" width="100%" height="auto">
+<img src="img/eclipse/eclipse_3.JPG" alt="Crowd at the Eclipse" width="100%" height="auto">
 </div>
 </html>
 
@@ -27,7 +27,7 @@ The partial phase started around 9 AM. We had a lot of time to play with our cam
  
 <html>
 <div align="center">
-<img src="img/eclipse/eclipse_2.JPG" alt="Crowd at the Eclipse" width="100%" height="auto">
+<img src="img/eclipse/eclipse_2.JPG" alt="Eclipse Selfie" width="100%" height="auto">
 </div>
 </html>
 
