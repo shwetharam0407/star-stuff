@@ -3,5 +3,5 @@ title: Star Stuff
 description: Amateur Astronomy and Astrophotography
 keywords: Astronomy, Astronomy, Stargazing
 author: Shwetha Ram
-baseurl: "/star-stuff" # the subpath of your site, e.g. /blog/
-url: "shwetharam0407.github.io" # the base hostname & protocol for your site
+baseurl: "/star-stuff" #the subpath of your site, e.g. /blog/
+url: "shwetharam0407.github.io" #the base hostname & protocol for your site
