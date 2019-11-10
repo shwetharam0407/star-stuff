@@ -3,7 +3,7 @@ title:  "Eclipse"
 subtitle: "Road Trip to Madras"
 author: "Shwetha Ram"
 avatar: "img/authors/profile_pic.PNG"
-image: "img/eclipse/eclipse_1.jpg"
+image: "img/eclipse/eclipse_1.JPG"
 date:   2017-08-21 12:12:12
 ---
 
@@ -27,7 +27,7 @@ The partial phase started around 9 AM. We had a lot of time to play with our cam
  
 <html>
 <div align="center">
-<img src="img/eclipse/eclipse_2.jpg" alt="Crowd at the Eclipse" width="100%" height="auto">
+<img src="img/eclipse/eclipse_2.JPG" alt="Crowd at the Eclipse" width="100%" height="auto">
 </div>
 </html>
 
@@ -35,7 +35,7 @@ Around 10:15 AM, there was a buzz of excitement around. The moon got closer and 
 
 <html>
 <div align="center">
-<img src="img/eclipse/eclipse_1.jpg" alt="Eclipse" width="100%" height="auto">
+<img src="img/eclipse/eclipse_1.JPG" alt="Eclipse" width="100%" height="auto">
 </div>
 </html>
 
