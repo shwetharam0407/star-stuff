@@ -17,7 +17,7 @@ If you've never heard of a Mercury transit, it's kind of a big deal. The planet 
 </html>
 
 #### So yeah, this is rare, but why? 
-Mercury is the fastest planet and if it orbited on the same plane as the Earth, we would see a transit every 166 days. But the orbit of Mercury is inclined and we only see a transit when the orbits cross such that Mercury is directly between the us and the Sun. The transits of Venus are even rarer.
+Mercury is the fastest planet and if it orbited on the same plane as the Earth, we would see a transit every 166 days. But the orbit of Mercury is inclined and we only see a transit when the orbits cross such that Mercury is directly between us and the Sun. The transits of Venus are even rarer.
 
 #### Micro-Eclipse
 A transit is basically a micro-eclipse. Mercury is about the size of our moon but since it's so far away, it can occlude much less of our Sun and is but a small dot on the disk. The moon, on the other hand, can cover the disk of the Sun and cause a total eclipse. Here's a fun fact: Our moon is moving away from us too and consequently, there will come a time when it can no longer occlude the Sun's disk the way it does now. And we won't have total solar eclipses thereafter.
